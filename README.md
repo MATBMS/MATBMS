@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MATBMS
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on open source project
+- 💞️ I’m looking to collaborate on open source projects
 
 <!---
 - 👋 Hi, I’m @MATBMS
